@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Byte-app</string>
+    <string name="app_name">My News</string>
+    <string name="business">Бизнесс</string>
+    <string name="politics">Политика</string>
+    <string name="science">Наука</string>
+    <string name="sports">Спорт</string>
+    <string name="entertainment">Развлечение</string>
 </resources>
